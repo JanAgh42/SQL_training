@@ -1,5 +1,4 @@
-
-## Web application - online shop
+## SQL training
 
 This project contains example endpoints used for learning purposes. The goal was to study the SQL language, it's constructs and structure.
 
